@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "images": {
+    "hero-ballroom": {
+      "src": "/images/imported/image_33.jpg",
+      "max_width": 1000,
+      "sizes": "(min-width: 1200px) 720px, 100vw",
+      "loading": "eager"
+    },
+    "wedding-couple": {
+      "src": "/images/imported/image_1.jpg",
+      "max_width": 760,
+      "sizes": "(min-width: 900px) 42vw, 100vw",
+      "loading": "lazy"
+    },
+    "reception-detail": {
+      "src": "/images/imported/image_6.webp",
+      "max_width": 760,
+      "sizes": "(min-width: 900px) 52vw, 100vw",
+      "loading": "lazy"
+    },
+    "consultation": {
+      "src": "/images/imported/image_9.jpg",
+      "max_width": 760,
+      "sizes": "(min-width: 900px) 50vw, 100vw",
+      "loading": "lazy"
+    },
+    "customer-wedding-moment": {
+      "src": "/images/imported/image_34.webp",
+      "max_width": 720,
+      "sizes": "(min-width: 900px) 42vw, (min-width: 640px) 50vw, 100vw",
+      "crop": {
+        "width": 4,
+        "height": 5,
+        "position": "centre"
+      },
+      "loading": "lazy"
+    },
+    "brand-logo": {
+      "src": "/images/imported/image_56.webp",
+      "max_width": 560,
+      "sizes": "(min-width: 900px) 210px, 160px",
+      "crop": {
+        "width": 100,
+        "height": 100,
+        "position": "centre"
+      },
+      "loading": "eager"
+    },
+    "brand-monogram": {
+      "src": "/images/imported/image_57.webp",
+      "max_width": 440,
+      "sizes": "80px",
+      "crop": {
+        "width": 100,
+        "height": 100,
+        "position": "centre"
+      },
+      "loading": "eager"
+    },
+    "hero-stamp-logo": {
+      "src": "/images/imported/image_58.webp",
+      "max_width": 440,
+      "sizes": "(min-width: 900px) 190px, 145px",
+      "crop": {
+        "width": 100,
+        "height": 100,
+        "position": "centre"
+      },
+      "loading": "eager"
+    }
+  }
+}
